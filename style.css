@@ -1,0 +1,6 @@
+* {box-sizing: border-box;}
+p {display: block;}
+
+body {background-color: blueviolet;}
+
+.links {float: right;}
